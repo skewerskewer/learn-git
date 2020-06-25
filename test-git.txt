@@ -1,3 +1,6 @@
 This is the first creation of this file to learn git.
 
-This is the first revisio
+This is the first revision
+
+This is the second revision after github remote repo setup
+
